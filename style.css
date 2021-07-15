@@ -296,12 +296,12 @@ html {
   }
 
   .col-1 h1 {
-    font-size: 60px;
+    font-size: 50px;
     padding-bottom: 20px;
   }
 
   .col-1 p {
-    font-size: 20px;
+    font-size: 16px;
     padding: 10px 0;
   }
 
@@ -332,12 +332,12 @@ html {
 
   nav ul li a {
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     transition: color 0.5s;
   }
 
   header label {
-    font-size: 35px;
+    font-size: 30px;
     font-weight: bold;
   }
 
@@ -351,21 +351,21 @@ html {
   }
 
   .col-1 h1 {
-    font-size: 80px;
+    font-size: 60px;
     padding-bottom: 20px;
   }
 
   .col-1 p {
-    font-size: 30px;
+    font-size: 20px;
     padding: 10px 0;
   }
 
   .featured-1 h2 {
-    font-size: 50px;
+    font-size: 40px;
   }
 
   .featured-1 p {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   .skillbox {
@@ -374,13 +374,13 @@ html {
   }
 
   .skillbox h3 {
-    font-size: 30px;
+    font-size: 24px;
     margin-bottom: 30px;
     margin-top: 20px;
   }
 
   .skillbox p {
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 50px;
   }
 
@@ -390,24 +390,24 @@ html {
 
   .p1 h2 {
     margin-bottom: 20px;
-    font-size: 50px;
+    font-size: 40px;
   }
 
   .p1 p {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   footer {
-    font-size: 30px;
+    font-size: 20px;
     border-top: solid 3px #deb992;
   }
 
   .contact h2 {
-    font-size: 60px;
+    font-size: 40px;
   }
 
   .contact ul li {
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .contactr {
@@ -420,20 +420,20 @@ html {
     margin-top: 0;
   }
   form input {
-    font-size: 30px;
+    font-size: 24px;
     padding: 10px 20px;
     width: 70%;
     height: 80px;
   }
 
   form textarea {
-    font-size: 30px;
+    font-size: 24px;
   }
 
   form button {
     width: 100px;
     height: 50px;
-    font-size: 20px;
+    font-size: 16px;
   }
 
 
